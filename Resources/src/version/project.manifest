@@ -1,0 +1,12 @@
+{
+	"packageUrl" : "http://localhost:8080/app/update/assets/",
+	"remoteManifestUrl" : "http://localhost:8080/app/update/version/project.manifest",
+	"remoteVersionUrl" : "http://localhost:8080/app/update/version/version.manifest",
+	"version" : "1.0.0",
+
+	"assets" : {
+	},
+    
+    "searchPaths" : [
+    ]
+}
